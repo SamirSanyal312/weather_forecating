@@ -171,9 +171,5 @@ This project is licensed under the MIT License. See LICENSE for more details.
 📬 Contact
 For questions or feedback, reach out via GitHub or email the team directly.
 
-yaml
-Copy
-Edit
-
 ---
 
