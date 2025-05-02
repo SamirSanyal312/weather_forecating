@@ -177,7 +177,3 @@ Edit
 
 ---
 
-Let me know if you'd like:
-- A downloadable version (`README.md`)
-- Screenshots or badges added
-- Or help deploying this as a GitHub Page or Wiki!
